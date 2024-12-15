@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "module": "NodeNext",
+    "target": "ES6"
+  },
+  "exclude": ["node_modules"]
+}
